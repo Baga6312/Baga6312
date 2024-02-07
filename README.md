@@ -6,7 +6,7 @@ I'm currently working on my final year project in my university<br>I'm looking t
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/oussema-ben-ayech-a8435b295/) 
 
 # 📊 GitHub Stats:
-<center>![](https://github-readme-stats.vercel.app/api?username=Baga6312&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/></center>
+![](https://github-readme-stats.vercel.app/api?username=Baga6312&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Baga6312&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Baga6312&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 

@@ -6,9 +6,10 @@ I'm **Baga6312**, a Software developer with a strong passion for all open source
 
 
 <p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=Baga6312&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true&theme=radical"/>
-  <br />
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baga6312&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baga6312&hide=vue&langs_count=10&layout=compact&exclude_repo=MaquinaRefrigeranteFPGA,dotfiles&show_icons=true&theme=github_dark)](https://github.com/talis-fb/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=Baga6312&show_icons=true&theme=github_dark)](https://github.com/talis-fb/github-readme-stats)
 </p>
 
   

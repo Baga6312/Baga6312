@@ -2,7 +2,9 @@
 
 ### Hey!
 
-I'm **Baga6312**, a Software developer with a strong passion for all open source things. I m a linux user (obviously) and I m self taught Ethical Hacker, I love pixelart too and web dev , i do Game dev from time to time.  
+- I'm **Baga6312**, a Software developer with a strong passion for all open source things.
+- I m a linux user (obviously) and I m self taught Ethical Hacker,
+- I love pixelart too and web dev , i do Game dev from time to time.  
 
 
 <p>

@@ -2,15 +2,17 @@
 
 
 ### Hey!
-<p></p>
-- I'm **Baga6312**, a Software developer with a strong passion for all open source things.
-- I m a linux user (obviously) and I m self taught Ethical Hacker.
-- I love pixelart too and web dev , i do Game dev from time to time.
-- You r not gonna see much here , its all old projects but soon i will be working on here 
+</br>
+</br>
+<ul>
+    <li>I'm <strong>Baga6312</strong>, a Software developer with a strong passion for all open source things.</li>
+    <li>I m a linux user (obviously) and I m self taught Ethical Hacker.</li>
+    <li>I love pixelart too and web dev , i do Game dev from time to time.</li>
+    <li>You r not gonna see much here , its all old projects but soon i will be working on here</li> 
+</ul>
 
-
-<p>
   ### Tech that i use
+<p>
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
     <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>

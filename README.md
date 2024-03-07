@@ -40,7 +40,7 @@
     <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
 </p>
 <br/>
-<div style="display: flex; width=100px;">
+<div style="display:flex; justify-content: space-between ; ">
 
 ![img](assets/giphy-ezgif.com-crop(1).gif)
 

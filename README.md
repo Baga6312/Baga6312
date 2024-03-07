@@ -41,12 +41,10 @@
 </p>
 
 <br/>
-<div style="display:flex ;">
-  <img width="30%" height="30%"style='border-radius:5px ; padding-right:10px;' src="assets/giphy-ezgif.com-crop(1).gif">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Baga6312&theme=github_dark&show_icons=true">
+<div style="display: flex ;">
+  <img src="assets/giphy-ezgif.com-crop(1).gif"width="30%" height="30%" style='border-radius:5px ;'> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Baga6312&theme=github_dark&show_icons=true" style="margin-left: 10px;">  </div>
 
-</div>
 <div style="display: flex;">
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baga6312&hide=vue&langs_count=10&layout=compact&exclude_repo=MaquinaRefrigeranteFPGA,dotfiles&show_icons=true&theme=github_dark)](https://github.com/talis-fb/github-readme-stats)

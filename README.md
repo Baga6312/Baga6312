@@ -1,9 +1,7 @@
-<img align="left" width="90px" height="100px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/de407834-309b-4298-bef1-d23f7ab7ed87/d98wdl0-5b607e1c-4a5c-477e-9a94-506e914ec71f.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RlNDA3ODM0LTMwOWItNDI5OC1iZWYxLWQyM2Y3YWI3ZWQ4N1wvZDk4d2RsMC01YjYwN2UxYy00YTVjLTQ3N2UtOWE5NC01MDZlOTE0ZWM3MWYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.RLeyH4XQMihvaZG0qjlKpUKuBnHSdFojKP-CjJYWEq4">
+<img align="left" width="100px" height="60px" src="assets/ezgif.com-crop.gif">
+</br>
+<h1> <strong>Hey!</strong></h1>
 
-### Hey!
-</br>
-</br>
-</br>
 <ul>
     <li>I'm <strong>Baga6312</strong>, a Software developer with a strong passion for all open source things.</li>
     <li>I m a linux user (obviously) and I m self taught Ethical Hacker.</li>
@@ -14,7 +12,7 @@
 </br>
 
 <center>
-<img src ="/home/dt/code/Baga6312/assets/3c2cd4ea0f5797cb6e850a0438382564-ezgif.com-resize.gif">
+<img src ="assets/3c2cd4ea0f5797cb6e850a0438382564-ezgif.com-resize.gif">
 </center>
 
 ### Tech that i use
@@ -46,7 +44,7 @@
 
 </br>
 <center>
-<img src="/home/dt/code/Baga6312/assets/gundam-header.jpg">
+<img src="assets/gundam-header.jpg">
 </center>
 
 <br/>

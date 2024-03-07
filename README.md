@@ -10,7 +10,7 @@
 </br>
 
 <center>
-<img src ="assets/3c2cd4ea0f5797cb6e850a0438382564-ezgif.com-resize.gif">
+<img  src="assets/clideo_editor_44758ea9275e4da095b0d203237adfcd-ezgif.com-resize.gif" >
 </center>
 
 ### Tech that i use

@@ -43,7 +43,7 @@
 <br/>
 <div style="display:flex; ">
 
-  <img style="padding-right:5px; border-radius: 5px ;"  src="assets/giphy-ezgif.com-crop(1).gif"> 
+  <img src="assets/giphy-ezgif.com-crop(1).gif"> 
 
   [![Top Langs](https://github-readme-stats.vercel.app/api?username=Baga6312&show_icons=true&theme=github_dark)](https://github.com/talis-fb/github-readme-stats)
 

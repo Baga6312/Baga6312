@@ -41,11 +41,10 @@
 </p>
 
 <br/>
-<div>
-  
-  <img src="assets/giphy-ezgif.com-crop(1).gif">
+<div style="display:flex justify-content:center ;">
+  <img width="24.3%" height="24.3%"style='border-radius:5px' src="assets/giphy-ezgif.com-crop(1).gif">
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api?username=Baga6312&show_icons=true&theme=github_dark)](https://github.com/talis-fb/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=Baga6312&theme=github_dark&show_icons=true">
 
 </div>
 <div style="display: flex;">

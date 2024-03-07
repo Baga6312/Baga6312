@@ -44,7 +44,7 @@
 <div style="display:flex; ">
 
 ![img](assets/giphy-ezgif.com-crop(1).gif)
---
+__
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=Baga6312&show_icons=true&theme=github_dark)](https://github.com/talis-fb/github-readme-stats)
 
 </div>

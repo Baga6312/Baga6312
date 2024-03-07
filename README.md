@@ -43,6 +43,8 @@
 <div style="display: flex;">
 
 ![img](assets/giphy-ezgif.com-crop(1).gif)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baga6312&hide=vue&langs_count=10&layout=compact&exclude_repo=MaquinaRefrigeranteFPGA,dotfiles&show_icons=true&theme=github_dark)](https://github.com/talis-fb/github-readme-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=Baga6312&show_icons=true&theme=github_dark)](https://github.com/talis-fb/github-readme-stats)
 
@@ -53,6 +55,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baga6312&hide=vue&langs_count=10&layout=compact&exclude_repo=MaquinaRefrigeranteFPGA,dotfiles&show_icons=true&theme=github_dark)](https://github.com/talis-fb/github-readme-stats)
 </div>
+
 <center>
 <img src="assets/gundam-header.jpg">
 </center>

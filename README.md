@@ -10,7 +10,7 @@
 </br>
 
 <center>
-<img  src="assets/clideo_editor_44758ea9275e4da095b0d203237adfcd-ezgif.com-resize.gif" >
+<img  src="assets/clideo_editor_44758ea9275e4da095b0d203237adfcd-ezgif.com-rotate.gif" >
 </center>
 
 ### Tech that i use
@@ -42,9 +42,11 @@
 <br/>
 <div style="display: flex; justify-content: space-evenly;">
 
+![img](assets/giphy-ezgif.com-crop(1).gif)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=Baga6312&show_icons=true&theme=github_dark)](https://github.com/talis-fb/github-readme-stats)
 
-![img](assets/giphy-ezgif.com-crop.gif)
+
 
 </div>
 <div style="display: flex; justify-content: space-evenly;">

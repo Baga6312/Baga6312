@@ -39,21 +39,18 @@
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js">
     <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
 </p>
-
-</br>
-
-
-<center>
-<img src="assets/giphy-ezgif.com-crop.gif">
-</center>
-
 <br/>
+<div style="display: flex; justify-content: space-evenly;">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=Baga6312&show_icons=true&theme=github_dark)](https://github.com/talis-fb/github-readme-stats)
 
+![img](assets/giphy-ezgif.com-crop.gif)
+
+</div>
+<div style="display: flex; justify-content: space-evenly;">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baga6312&hide=vue&langs_count=10&layout=compact&exclude_repo=MaquinaRefrigeranteFPGA,dotfiles&show_icons=true&theme=github_dark)](https://github.com/talis-fb/github-readme-stats)
-
-
+</div>
 <center>
 <img src="assets/gundam-header.jpg">
 </center>

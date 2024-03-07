@@ -1,14 +1,12 @@
 <img align="left" width="100px" height="60px" src="assets/ezgif.com-crop.gif">
-</br>
-<h1> <strong>Hey!</strong></h1>
-
+<h3> <strong>Hey!</strong></h3>
+<strong><hr></strong>
 <ul>
     <li>I'm <strong>Baga6312</strong>, a Software developer with a strong passion for all open source things.</li>
     <li>I m a linux user (obviously) and I m self taught Ethical Hacker.</li>
     <li>I love pixelart too and web dev , i do Game dev from time to time.</li>
     <li>You r not gonna see much here , its all old projects but soon i will be working on here</li> 
 </ul>
-</br>
 </br>
 
 <center>

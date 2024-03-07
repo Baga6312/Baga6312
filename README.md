@@ -1,7 +1,7 @@
 <img align="left" width="90px" height="100px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/de407834-309b-4298-bef1-d23f7ab7ed87/d98wdl0-5b607e1c-4a5c-477e-9a94-506e914ec71f.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RlNDA3ODM0LTMwOWItNDI5OC1iZWYxLWQyM2Y3YWI3ZWQ4N1wvZDk4d2RsMC01YjYwN2UxYy00YTVjLTQ3N2UtOWE5NC01MDZlOTE0ZWM3MWYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.RLeyH4XQMihvaZG0qjlKpUKuBnHSdFojKP-CjJYWEq4">
 
-
 ### Hey!
+</br>
 </br>
 </br>
 <ul>
@@ -10,8 +10,14 @@
     <li>I love pixelart too and web dev , i do Game dev from time to time.</li>
     <li>You r not gonna see much here , its all old projects but soon i will be working on here</li> 
 </ul>
+</br>
+</br>
 
-  ### Tech that i use
+<center>
+<img src ="/home/dt/code/Baga6312/assets/3c2cd4ea0f5797cb6e850a0438382564-ezgif.com-resize.gif">
+</center>
+
+### Tech that i use
 <p>
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
@@ -39,9 +45,16 @@
 </p>
 
 </br>
+<center>
+<img src="/home/dt/code/Baga6312/assets/gundam-header.jpg">
+</center>
+
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=Baga6312&show_icons=true&theme=github_dark)](https://github.com/talis-fb/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baga6312&hide=vue&langs_count=10&layout=compact&exclude_repo=MaquinaRefrigeranteFPGA,dotfiles&show_icons=true&theme=github_dark)](https://github.com/talis-fb/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=Baga6312&show_icons=true&theme=github_dark)](https://github.com/talis-fb/github-readme-stats)
+
 <p>
   <center>
     <p>📣 need a contact ? :</p>

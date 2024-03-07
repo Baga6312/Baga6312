@@ -41,7 +41,7 @@
 </p>
 
 <br/>
-<div style="display:flex; justify-content: center ; ">
+<div>
   
   <img src="assets/giphy-ezgif.com-crop(1).gif">
 

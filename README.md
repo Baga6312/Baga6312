@@ -42,7 +42,7 @@
 
 <br/>
 <div style="display:flex justify-content:center ;">
-  <img width="30%" height="30%"style='border-radius:5px' src="assets/giphy-ezgif.com-crop(1).gif">
+  <img width="30%" height="30%"style='border-radius:15px' src="assets/giphy-ezgif.com-crop(1).gif">
 
   <img src="https://github-readme-stats.vercel.app/api?username=Baga6312&theme=github_dark&show_icons=true">
 

@@ -44,7 +44,7 @@
 <div>
   <ul style="list-style: none">
     <li style="display:inline-block; margin-right:5px">
-      <img style="border-radius:5px"src="assets/giphy-ezgif.com-crop(1).gif"width="96%" height="96%">
+      <img style="border-radius:5px"src="assets/giphy-ezgif.com-crop(1).gif"width="30%" height="30%">
     </li> 
     <li style="display:inline-block; margin-right:5px">
       <img src="https://github-readme-stats.vercel.app/api?username=Baga6312&theme=github_dark&show_icons=true">

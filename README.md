@@ -9,7 +9,7 @@
 </ul>
 
 </br>
-</br>
+
 <ul>
 <li><p>When I'm not immersed in the world of technology, you can find me following camping trips. Apart from that, I love solving puzzles 🧩 and listening to music 🎶 , I love also old anime .<p></li>
 <li><p>I'm always open to new ideas and opportunities. You can learn more about me or connect with me on LinkedIn 👥. Feel free to reach out to me directly at oussmea.benayech@gmail.com . Let's connect and explore exciting possibilities together! 🚀</p></li>

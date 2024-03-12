@@ -1,3 +1,8 @@
+<center>
+<img  style="border-radius:5px ; margin-right:5px; display:inline-block;"  src="assets/Untitleddesign-ezgif.com-resize.gif" >
+</center>
+<hr>
+
 <img align="left" width="100px" height="60px" src="assets/ezgif.com-crop.gif">
 <h3> <strong>Hey!</strong></h3>
 

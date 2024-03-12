@@ -5,7 +5,7 @@
 
 <img align="left" width="100px" height="60px" src="assets/ezgif.com-crop.gif">
 <h3> <strong>Hey!</strong></h3>
-
+</br>
 <ul style="list-style-type=none;">
     <li>I'm <strong>Baga6312</strong>, a Software developer with a strong passion for all open source things.</li>
     <li>I m a linux user (obviously) and I m self taught Ethical Hacker.</li>

@@ -11,7 +11,6 @@
     <li>I'm <strong>Baga6312</strong>, a Software developer with a strong passion for all open source things.</li>
     <li>Linux user .</li>
     <li>I love pixelart too and web dev , i do Game dev from time to time.</li>
-    <li>You r not gonna see much here , its all old projects but soon i will be working on here</li> 
 </ul>
 
 </br>

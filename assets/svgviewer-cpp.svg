@@ -1,3 +1,4 @@
+
 <svg width="120" height="140" viewBox="0 0 120 140" xmlns="http://www.w3.org/2000/svg">
   <!-- Hexagonal background -->
   <polygon points="60,10 110,37 110,93 60,120 10,93 10,37" 
@@ -6,7 +7,7 @@
            stroke-width="2"/>
   
   <!-- Icon/Symbol -->
-  <image x="45" y="30" width="30" height="30" href="https://hrcdn.net/fcore/assets/badges/cpp.svg"/>
+  <image x="45" y="30" width="30" height="30" href="cpp.svg"/>
   
   <!-- CPP Text -->
   <text x="60" y="75" text-anchor="middle" font-family="Arial, sans-serif" 

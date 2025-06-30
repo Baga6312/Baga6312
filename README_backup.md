@@ -28,7 +28,7 @@
 
 <div>
   <a href="https://www.hackthebox.eu/home/users/profile/42767">
-    <img src="https://www.hackthebox.eu/badge/image/42767" alt="HackTheBox Badge"  width="400">
+    <img src="https://www.hackthebox.eu/badge/image/42767" alt="HackTheBox Badge"  width="455">
   </a>
   <img src="https://tryhackme-badges.s3.amazonaws.com/oussema.benayech.png" alt="TryHackMe Badge" width="400">
 </div>

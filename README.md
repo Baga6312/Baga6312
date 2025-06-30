@@ -10,24 +10,16 @@
 
 ## 🏆 Platform Status
 
-### HackTheBox
-<div align="center">
   <a href="https://www.hackthebox.eu/home/users/profile/42767">
     <img src="https://www.hackthebox.eu/badge/image/42767" alt="HackTheBox Badge" width="400">
   </a>
-</div>
 
-### TryHackMe
-<div align="center">
+
   <img src="https://tryhackme-badges.s3.amazonaws.com/oussema.benayech.png" alt="TryHackMe Badge" width="400">
-</div>
 
-### HackerRank
-<div align="center">
-  <img src="https://hrcdn.net/fcore/assets/badges/hackerrank_logo-21e2867566.svg" alt="HackerRank Logo" width="50">
+  <img src="https://user-images.githubusercontent.com/1194257/65596422-1cef2080-df97-11e9-9abb-a225204d1805.png" alt="HackerRank Logo" width="200">
   <br>
-  <img src="https://hackerrank-badge.herokuapp.com/Baga6312?s=1" alt="HackerRank Badge" style="max-width: 240px;">
-</div>
+ 
 
 **🏆 My Badges**
 

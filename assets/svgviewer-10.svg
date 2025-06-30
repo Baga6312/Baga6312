@@ -1,0 +1,32 @@
+<svg width="120" height="140" viewBox="0 0 120 140" xmlns="http://www.w3.org/2000/svg">
+  <!-- Hexagonal background -->
+  <polygon points="60,10 110,37 110,93 60,120 10,93 10,37" 
+           fill="#CDCDCD" 
+           stroke="#E0E0E0" 
+           stroke-width="2"/>
+  
+  <!-- Icon/Symbol -->
+  <image x="45" y="30" width="30" height="30" href="https://hrcdn.net/fcore/assets/badges/10-days-of-javascript.svg"/>
+  
+  <!-- CPP Text -->
+  <text x="60" y="75" text-anchor="middle" font-family="Arial, sans-serif" 
+        font-size="10" font-weight="bold" fill="#2C1810">Days of JS</text>
+  
+  <!-- Stars -->
+  <g transform="translate(60, 90)">
+    <!-- Star 1 -->
+    <polygon points="-20,-5 -18.5,-1 -14.5,-1 -17,2 -16,6 -20,3 -24,6 -23,2 -25.5,-1 -21.5,-1" 
+             fill="#FFB300"/>
+    <!-- Star 2 -->
+    <polygon points="-7,-5 -5.5,-1 -1.5,-1 -4,2 -3,6 -7,3 -11,6 -10,2 -12.5,-1 -8.5,-1" 
+             fill="#FFB300"/>
+    <!-- Star 3 -->
+    <polygon points="6,-5 7.5,-1 11.5,-1 9,2 10,6 6,3 2,6 3,2 0.5,-1 4.5,-1" 
+             fill="#FFB300"/>
+    <!-- Star 4 -->
+    <polygon points="19,-5 20.5,-1 24.5,-1 22,2 23,6 19,3 15,6 16,2 13.5,-1 17.5,-1" 
+             fill="#FFB300"/>
+    <!-- Star 5 -->
+ 
+  </g>
+</svg>

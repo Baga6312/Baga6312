@@ -8,7 +8,7 @@
            stroke-width="2"/>
   
   <!-- Icon/Symbol -->
-  <image x="45" y="30" width="30" height="30" href="sql.svg"/>
+  <image x="45" y="30" width="30" height="30" href="https://raw.githubusercontent.com/Baga6312/Baga6312/refs/heads/main/assets/sql.svg"/>
   
   <!-- Text -->
   <text x="60" y="75" text-anchor="middle" font-family="Arial, sans-serif" 

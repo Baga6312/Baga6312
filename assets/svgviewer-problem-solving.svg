@@ -7,8 +7,7 @@
            stroke-width="2"/>
   
   <!-- Icon/Symbol -->
-  <image x="45" y="30" width="30" height="30" href="problem-solving.svg"/>
-  
+  <image x="45" y="30" width="30" height="30" href="https://raw.githubusercontent.com/Baga6312/Baga6312/main/assets/problem-solving.svg"/>  
   <!-- Text -->
   <text x="60" y="75" text-anchor="middle" font-family="Arial, sans-serif" 
         font-size="10" font-weight="bold" fill="#2C1810">Problem Solving</text>

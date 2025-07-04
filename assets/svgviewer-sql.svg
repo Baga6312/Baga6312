@@ -9,6 +9,18 @@
   
   <!-- Icon/Symbol -->
   <image x="45" y="30" width="30" height="30" href="https://raw.githubusercontent.com/Baga6312/Baga6312/refs/heads/main/assets/sql.svg"/>
+
+    <g transform="translate(60, 45)">
+    <!-- Lightbulb outline -->
+    <circle cx="0" cy="-5" r="8" fill="none" stroke="#2C1810" stroke-width="1.5"/>
+    <!-- Lightbulb base -->
+    <rect x="-3" y="3" width="6" height="4" fill="none" stroke="#2C1810" stroke-width="1.5"/>
+    <!-- Filament -->
+    <path d="M-4,-8 L4,-2 M-4,-2 L4,-8" stroke="#2C1810" stroke-width="1"/>
+  </g>
+
+
+
   
   <!-- Text -->
   <text x="60" y="75" text-anchor="middle" font-family="Arial, sans-serif" 

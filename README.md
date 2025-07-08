@@ -83,7 +83,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img style="border-radius:5px; margin: 0 20px; display:inline-block;" 
      src="assets/giphy-ezgif.com-crop(1).gif" 
      width="30%" 
-     height="100%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     height="200%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img style="border-radius:5px ; margin-right:5px; display:inline-block;" src="https://github-readme-stats.vercel.app/api?username=Baga6312&theme=github_dark&show_icons=true">
     
 </div>

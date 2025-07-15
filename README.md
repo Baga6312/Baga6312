@@ -110,7 +110,7 @@
 
 </div>
 <center>
-<img  style="border-radius:5px ; margin-right:5px; display:inline-block;"  src="assets/dangaioh.gif" >
+<img  style="border-radius:5px ;  display:inline-block;"  src="assets/dangaioh.gif" >
 </center>
 <hr>
 <p>

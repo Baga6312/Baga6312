@@ -109,6 +109,9 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baga6312&hide=vue&langs_count=10&layout=compact&exclude_repo=MaquinaRefrigeranteFPGA,dotfiles&show_icons=true&theme=github_dark)](https://github.com/talis-fb/github-readme-stats)
 
 </div>
+<center>
+<img  style="border-radius:5px ; margin-right:5px; display:inline-block;"  src="assets/dangaioh.gif" >
+</center>
 <hr>
 <p>
   <center>

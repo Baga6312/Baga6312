@@ -100,14 +100,18 @@
 </p>
 
 <br/>
-<div>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img style="border-radius:5px; margin: 0 20px; display:inline-block;" 
-     src="assets/giphy-ezgif.com-crop(1).gif" 
-     width="30%" 
-     height="200%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img style="border-radius:5px ; margin-right:5px; display:inline-block;" src="https://github-readme-stats.vercel.app/api?username=Baga6312&theme=github_dark&show_icons=true">
-    
+<div style="display: flex; align-items: flex-end; gap: 20px;">
+    <img style="border-radius:5px; display:block;"
+         src="assets/giphy-ezgif.com-crop(1).gif"
+         width="30%"
+         height="200px">
+    <div style="display: flex; flex-direction: column-reverse;">
+        <img src="https://leetcode-badge-showcase.vercel.app/api?username=kevzpeter&theme=transparent&filter=study" alt="LeetCode Badges" />
+    </div>
 </div>
+
+    <!--- <img style="border-radius:5px ; margin-right:5px; display:inline-block;" src="https://github-readme-stats.vercel.app/api?username=Baga6312&theme=github_dark&show_icons=true">-->
+    
 <br/>
 <div style="display: flex;">
 

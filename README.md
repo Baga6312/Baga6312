@@ -53,8 +53,10 @@
 </div>
 
 🔗 **Profile**: [HackerRank/Baga6312](https://www.hackerrank.com/Baga6312)
+<hr>
 <br>
 <img  src="assets/gundam-header.jpg" >
+<br>
 
 ### GitHub analytics 
 

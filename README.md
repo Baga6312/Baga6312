@@ -116,7 +116,7 @@
 </div>
 <center>
 <br>
-<img  style="border-radius:5px ; width:5000px  ;  display:inline-block;"  src="assets/gundam-header.jpg" >
+<img style="border-radius:5px ; width:5000px  ;  display:inline-block;" src="assets/gundam-header.jpg" >
 </center>
 <hr>
 <p>

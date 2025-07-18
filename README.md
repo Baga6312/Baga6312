@@ -37,12 +37,12 @@
 
 
 <div align="center">
-  <img src="assets/svgviewer-problemsolving.svg" alt="Problem Solving Badge" width="120">
-  <img src="assets/svgviewer-cpp.svg" alt="C++ Badge" width="120">
-  <img src="assets/svgviewer-python.svg" alt="Python Badge" width="120">
-  <img src="assets/svgviewer-10.svg" alt="10 Days of JS Badge" width="120">
-  <img src="assets/svgviewer-sql.svg" alt="SQL Badge" width="120">
-  <img src="assets/svgviewer-contributor.svg" alt="Contributor Badge" width="120">
+  <img src="assets/svgviewer-problemsolving.png" alt="Problem Solving Badge" width="120">
+  <img src="assets/svgviewer-cpp.png" alt="C++ Badge" width="120">
+  <img src="assets/svgviewer-python.png" alt="Python Badge" width="120">
+  <img src="assets/svgviewer-10.png" alt="10 Days of JS Badge" width="120">
+  <img src="assets/svgviewer-sql.png" alt="SQL Badge" width="120">
+  <img src="assets/svgviewer-contributor.png" alt="Contributor Badge" width="120">
 </div>
 
 🔗 **Profile**: [HackerRank/Baga6312](https://www.hackerrank.com/Baga6312)

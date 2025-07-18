@@ -116,7 +116,7 @@
 </div>
 
 <br>
-<img style="border-radius:5pxpx ; display:inline-block;" src="assets/dangaioh.gif"> 
+<img style="border-radius:5pxpx ; display:inline-block;" src="assets/gundam-header.jpg"> 
 
 <p>
   <center>

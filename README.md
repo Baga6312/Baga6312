@@ -40,7 +40,7 @@
   <img src="assets/svgviewer-problemsolving.png" alt="Problem Solving Badge" width="120">
   <img src="assets/svgviewer-cpp.png" alt="C++ Badge" width="120">
   <img src="assets/svgviewer-python.png" alt="Python Badge" width="120">
-  <img src="assets/svgviewer-10-days-of-js" alt="10 Days of JS Badge" width="120">
+  <img src="assets/svgviewer-10-days-of-js.png" alt="10 Days of JS Badge" width="120">
   <img src="assets/svgviewer-sql.png" alt="SQL Badge" width="120">
   <img src="assets/svgviewer-contributor.png" alt="Contributor Badge" width="120">
 </div>

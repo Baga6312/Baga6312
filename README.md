@@ -100,15 +100,12 @@
 </p>
 
 <br/>
-<table style="border: none; width: 100%; border-spacing: 20px;">
+<table>
   <tr>
-    <td style="vertical-align: top; padding: 0; border: none; width: 35%;">
-      <img style="border-radius:5px; display:block;"
-           src="assets/giphy-ezgif.com-crop(1).gif"
-           width="100%"
-           height="200px">
+    <td>
+      <img src="assets/giphy-ezgif.com-crop(1).gif" width="300" height="200">
     </td>
-    <td style="vertical-align: bottom; padding: 0; border: none;">
+    <td>
       <img src="https://leetcode-badge-showcase.vercel.app/api?username=kevzpeter&theme=transparent&filter=study" alt="LeetCode Badges" />
     </td>
   </tr>

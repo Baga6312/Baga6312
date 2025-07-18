@@ -101,16 +101,13 @@
 
 <br/>
 
-
-<div style="display: flex; align-items: flex-end; gap: 20px;">
+<div style="display: flex; gap: 20px; height: 200px;">
     <img style="border-radius:5px; display:block;"
          src="assets/giphy-ezgif.com-crop(1).gif"
          width="30%"
-         height="200px">
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=kevzpeter&theme=transparent&filter=study" alt="LeetCode Badges" />
+         height="100%">
+    <img style="align-self: flex-end;" src="https://leetcode-badge-showcase.vercel.app/api?username=kevzpeter&theme=transparent&filter=study" alt="LeetCode Badges" />
 </div>
-
-
 
 <br/>
 <div style="display: flex;">

@@ -116,7 +116,7 @@
 </div>
 
 <br>
-<img style="border-radius:5pxpx ; display:inline-block;" s500ding:osition
+<img style="border-radius:5pxpx ; display:inline-block;" src="assets/dangaioh.gif"> 
 
 <p>
   <center>

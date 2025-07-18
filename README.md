@@ -26,11 +26,11 @@
 
 ## 🏆 Platform Status
 
-<div style="display: flex; align-items: center; gap: 10px;">
+<div>
   <a href="https://www.hackthebox.eu/home/users/profile/1834753">
-    <img src="https://www.hackthebox.eu/badge/image/1834753" alt="HackTheBox Badge" width="400">
+    <img src="https://www.hackthebox.eu/badge/image/1834753" alt="HackTheBox Badge" width="400" height="120">
   </a>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/oussema.benayech.png" alt="TryHackMe Badge" width="400">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/oussema.benayech.png" alt="TryHackMe Badge" width="400" height="120">
 </div>
 
 ### HackerRank

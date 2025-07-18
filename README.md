@@ -100,15 +100,19 @@
 </p>
 
 <br/>
-<div style="display: flex; align-items: flex-end; gap: 20px;">
-    <img style="border-radius:5px; display:block;"
-         src="assets/giphy-ezgif.com-crop(1).gif"
-         width="30%"
-         height="200px">
-    <div style="display: flex; flex-direction: column-reverse;">
-        <img src="https://leetcode-badge-showcase.vercel.app/api?username=kevzpeter&theme=transparent&filter=study" alt="LeetCode Badges" />
-    </div>
-</div>
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td style="vertical-align: bottom; padding: 0; border: none; width: 35%;">
+      <img style="border-radius:5px; display:block;"
+           src="assets/giphy-ezgif.com-crop(1).gif"
+           width="100%"
+           height="200px">
+    </td>
+    <td style="vertical-align: bottom; padding: 0 0 0 20px; border: none;">
+      <img src="https://leetcode-badge-showcase.vercel.app/api?username=kevzpeter&theme=transparent&filter=study" alt="LeetCode Badges" />
+    </td>
+  </tr>
+</table>
 
     <!--- <img style="border-radius:5px ; margin-right:5px; display:inline-block;" src="https://github-readme-stats.vercel.app/api?username=Baga6312&theme=github_dark&show_icons=true">-->
     

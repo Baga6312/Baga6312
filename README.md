@@ -108,7 +108,7 @@
     <!--- <img style="border-radius:5px ; margin-right:5px; display:inline-block;" src="https://github-readme-stats.vercel.app/api?username=Baga6312&theme=github_dark&show_icons=true">-->
     
 <br/>
-
+<hr>
 
 <br>
 <img style="border-radius:5pxpx ; display:inline-block;" src="assets/gundam-header.jpg"> 

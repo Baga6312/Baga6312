@@ -110,7 +110,6 @@
 <br/>
 <hr>
 
-<br>
 <img style="border-radius:5pxpx ; display:inline-block;" src="assets/gundam-header.jpg"> 
 
 <p>

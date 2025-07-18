@@ -54,7 +54,7 @@
 
 🔗 **Profile**: [HackerRank/Baga6312](https://www.hackerrank.com/Baga6312)
 <hr>
-<img  src="assets/gundam-header.jpg" >
+<img  src="assets/dangaioh.gif" >
 
 ### GitHub analytics 
 
@@ -116,7 +116,7 @@
 </div>
 <center>
 <br>
-<img  style="border-radius:5px ; width:5000px  ;  display:inline-block;"  src="assets/dangaioh.gif" >
+<img  style="border-radius:5px ; width:5000px  ;  display:inline-block;"  src="assets/gundam-header.jpg" >
 </center>
 <hr>
 <p>

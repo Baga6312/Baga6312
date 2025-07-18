@@ -54,7 +54,6 @@
 
 🔗 **Profile**: [HackerRank/Baga6312](https://www.hackerrank.com/Baga6312)
 <hr>
-<br>
 <img  src="assets/gundam-header.jpg" >
 <br>
 
@@ -117,6 +116,7 @@
 
 </div>
 <center>
+<br>
 <img  style="border-radius:5px ; width:5000px  ;  display:inline-block;"  src="assets/dangaioh.gif" >
 </center>
 <hr>

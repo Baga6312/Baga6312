@@ -106,7 +106,7 @@
      width="30%" 
      height="200%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <!--- <img style="border-radius:5px ; margin-right:5px; display:inline-block;" src="https://github-readme-stats.vercel.app/api?username=Baga6312&theme=github_dark&show_icons=true">-->
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=kevzpeter&filter=transparent" alt="LeetCode Badges" />
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=kevzpeter&theme=transparent&filter=study" alt="LeetCode Badges" />
     
 </div>
 <br/>

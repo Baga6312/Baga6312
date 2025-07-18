@@ -101,8 +101,8 @@
 
 <br/>
 <div align="left">
-  <img src="assets/giphy-ezgif.com-crop(1).gif" width="300" height="200">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=kevzpeter&theme=transparent&filter=study" alt="LeetCode Badges"  />
+  <img src="assets/giphy-ezgif.com-crop(1).gif" width="150" height="200">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=kevzpeter&theme=transparent&filter=study" alt="LeetCode Badges" align="right" />
 </div>
     <!--- <img style="border-radius:5px ; margin-right:5px; display:inline-block;" src="https://github-readme-stats.vercel.app/api?username=Baga6312&theme=github_dark&show_icons=true">-->
     

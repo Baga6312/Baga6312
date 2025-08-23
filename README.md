@@ -1,8 +1,7 @@
 <center>
 <img  style="border-radius:5px ; margin-right:5px; display:inline-block;"  src="assets/Untitleddesign-ezgif.com-resize.gif" >
 </center>
-<hr>
-
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img align="left" width="100px" height="60px" src="assets/ezgif.com-crop.gif">
 <h3> <strong>Hey!</strong></h3>
 </br>

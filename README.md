@@ -53,7 +53,7 @@
 
 🔗 **Profile**: [HackerRank/Baga6312](https://www.hackerrank.com/Baga6312)
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <img style="border-radius:5pxpx ; display:inline-block;" src="assets/dangaioh.gif">
+  <img style="border-radius:5pxpx ; width:500000px ;  display:inline-block;" src="assets/dangaioh.gif">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### GitHub analytics 

@@ -52,7 +52,7 @@
 </div>
 
 🔗 **Profile**: [HackerRank/Baga6312](https://www.hackerrank.com/Baga6312)
-<hr>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img style="border-radius:5px ; width:50000px ; display:inline-block;"  src="assets/dangaioh.gif" >
 
 ### GitHub analytics 
@@ -107,8 +107,7 @@
     <!--- <img style="border-radius:5px ; margin-right:5px; display:inline-block;" src="https://github-readme-stats.vercel.app/api?username=Baga6312&theme=github_dark&show_icons=true">-->
     
 <br/>
-<hr>
-
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img style="border-radius:5pxpx ; display:inline-block;" src="assets/gundam-header.jpg"> 
 
 <p>

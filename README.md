@@ -23,7 +23,7 @@
 <img  src="assets/clideo_editor_44758ea9275e4da095b0d203237adfcd-ezgif.com-rotate.gif" >
 </center>
 
-## 🏆 Platform Status
+### 🏆 Platform Status
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <table style="border-collapse: collapse;">

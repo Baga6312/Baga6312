@@ -34,7 +34,7 @@
       </a>
     </td>
     <td style="vertical-align: middle; padding: 0; border: none;">
-      <img src="https://tryhackme-badges.s3.amazonaws.com/oussema.benayech.png" alt="TryHackMe Badge" width="400">
+      <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3352014" style='border:none;'></iframe>
     </td>
   </tr>
 </table>

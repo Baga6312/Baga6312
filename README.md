@@ -30,7 +30,7 @@
   <tr>
     <td style="vertical-align: middle; padding: 0; border: none;">
       <a href="https://www.hackthebox.eu/home/users/profile/1834753">
-        <img src="https://www.hackthebox.com/badge/image/1834753" alt="HackTheBox Badge" width=350>
+        <img src="https://www.hackthebox.com/badge/image/1834753" alt="HackTheBox Badge" width=375>
       </a>
     </td>
     <td style="vertical-align: middle; padding: 0; border: none;">

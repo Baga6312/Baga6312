@@ -8,7 +8,7 @@
 </br>
 <ul style="list-style-type=none;">
     <li>I'm <strong>Baga6312</strong>, a Software developer with a strong passion for all open source things.</li>
-    <li>Linux user and Hacker .</li>
+    <li>Linux and Hacker .</li>
     <li>I love pixelart too and web dev , i do Game dev from time to time.</li>
 </ul>
 

@@ -15,7 +15,7 @@
 </br>
 
 <ul>
-<li><p>I'm always open to new ideas and opportunities. You can learn more about me or connect with me on LinkedIn 👥. Feel free to reach out to me directly at oussmea.benayech@gmail.com . Let's connect and explore exciting possibilities together! 🚀</p></li>
+<li><p>I'm always open to new ideas and opportunities. You can learn more about me or connect with me on LinkedIn 👥. Feel free to reach out to me directly at oussema.benayech@gmail.com . Let's connect and explore exciting possibilities together! 🚀</p></li>
 </ul>
 </br>
 

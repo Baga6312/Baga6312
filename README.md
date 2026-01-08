@@ -46,10 +46,13 @@
 
 <div align="center">
   <img src="assets/ejpt.svg" alt="ejpt" width="80">
-  <p>⠀         ⠀</p>
+  <p> ⠀</p>
   <img src="assets/ewpt.svg" alt="ewpt" width="80">
+  <p> ⠀</p>
   <img src="assets/ewptx.svg" alt="ewptx" width="80">
+  <p> ⠀</p>
   <img src="assets/ecppt.svg" alt="ecppt" width="80">
+  <p> ⠀</p>
   <img src="assets/pt1.png" alt="pt1" width="80">
 </div>
 

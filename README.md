@@ -43,6 +43,7 @@
 
 ### Badges
 
+<!---
 <div align="center">
   <img src="assets/ejpt.svg" alt="ejpt" width="80">
   &nbsp;&nbsp;&nbsp;
@@ -54,6 +55,8 @@
   &nbsp;&nbsp;&nbsp;
   <img src="assets/pt1.png" alt="pt1" width="80">
 </div>
+-->
+
 
 🔗 **Profile**: [HackerRank/Baga6312](https://www.hackerrank.com/Baga6312)
   <br/>

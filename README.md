@@ -46,6 +46,7 @@
 
 <div align="center">
   <img src="assets/ejpt.svg" alt="ejpt" width="80">
+  <p>⠀         ⠀</p>
   <img src="assets/ewpt.svg" alt="ewpt" width="80">
   <img src="assets/ewptx.svg" alt="ewptx" width="80">
   <img src="assets/ecppt.svg" alt="ecppt" width="80">

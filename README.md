@@ -41,15 +41,15 @@
 
 
 
-### HackerRank
+### Badges
 
 
 <div align="center">
-  <img src="assets/svgviewer-problemsolving.png" alt="Problem Solving Badge" width="120">
-  <img src="assets/svgviewer-cpp.png" alt="C++ Badge" width="120">
-  <img src="assets/svgviewer-python.png" alt="Python Badge" width="120">
-  <img src="assets/svgviewer-10-days-of-js.png" alt="10 Days of JS Badge" width="120">
-  <img src="assets/svgviewer-sql.png" alt="SQL Badge" width="120">
+  <img src="assets/ejpt.png" alt="ejpt" width="120">
+  <img src="assets/ewpt.png" alt="ewpt" width="120">
+  <img src="assets/ewptx.png" alt="ewptx" width="120">
+  <img src="assets/eccpt.png" alt="ecppt" width="120">
+  <img src="assets/pt1.png" alt="pt1" width="120">
 </div>
 
 🔗 **Profile**: [HackerRank/Baga6312](https://www.hackerrank.com/Baga6312)

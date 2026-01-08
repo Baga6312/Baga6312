@@ -58,20 +58,6 @@
   <img style="border-radius:5pxpx ; width:500000px ;  display:inline-block;" src="assets/dangaioh.gif">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### GitHub analytics 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baga6312&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baga6312&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" height="180"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baga6312&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakLabel=58A6FF" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=baga6312&theme=tokyonight&no-frame=true&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies"/>
-</div>
 
 
 ### Tech that i use

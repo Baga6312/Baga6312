@@ -45,10 +45,10 @@
 
 
 <div align="center">
-  <img src="assets/ejpt.png" alt="ejpt" width="120">
-  <img src="assets/ewpt.png" alt="ewpt" width="120">
-  <img src="assets/ewptx.png" alt="ewptx" width="120">
-  <img src="assets/eccpt.png" alt="ecppt" width="120">
+  <img src="assets/ejpt.svg" alt="ejpt" width="120">
+  <img src="assets/ewpt.svg" alt="ewpt" width="120">
+  <img src="assets/ewptx.svg" alt="ewptx" width="120">
+  <img src="assets/eccpt.svg" alt="ecppt" width="120">
   <img src="assets/pt1.png" alt="pt1" width="120">
 </div>
 

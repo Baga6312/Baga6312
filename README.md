@@ -26,6 +26,7 @@
 ### 🏆 Platform Status
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+  &nbsp;&nbsp;&nbsp;
 <table style="border-collapse: collapse;">
   <tr>
     <td style="vertical-align: middle; padding: 0; border: none;">

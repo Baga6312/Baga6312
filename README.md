@@ -54,6 +54,10 @@
   <img src="assets/ecppt.svg" alt="ecppt" width="80">
   &nbsp;&nbsp;&nbsp;
   <img src="assets/pt1.png" alt="pt1" width="80">
+   &nbsp;&nbsp;&nbsp;
+  <img src="assets/rhcsa.png" alt="pt1" width="80">
+   &nbsp;&nbsp;&nbsp;
+  <img src="assets/rhce.png" alt="pt1" width="80">
 </div>
 -->
 

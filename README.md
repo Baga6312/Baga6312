@@ -44,6 +44,13 @@
 
 ### Badges
 
+<div align="center">
+  <img src="assets/ejpt.svg" alt="ejpt" width="80">
+  &nbsp;&nbsp;&nbsp;
+
+</div>
+
+
 <!---
 <div align="center">
   <img src="assets/ejpt.svg" alt="ejpt" width="80">

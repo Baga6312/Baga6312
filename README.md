@@ -109,7 +109,7 @@
 
   <img src="assets/giphy-ezgif.com-crop(1).gif"  width="390" height="300" align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=kevzpeter&theme=transparent&filter=study" alt="LeetCode Badges" align="center" />
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+  ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=baga6312&show_icons=true&theme=radical)
 </div>
     
 <br/>

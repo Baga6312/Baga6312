@@ -108,17 +108,15 @@
 <div align="left">
 
   <img src="https://github-readme-stats-fast.vercel.app/api?username=baga6312&show_icons=true&theme=radical"  width="390" height="300" >
-  <img src="https://stats.hyo.dev/api/github-stats?login=baga6312"  width="390" height="300" >
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-       <br>
+  <img src="https://stats.hyo.dev/api/github-stats?login=baga6312"  width="390" height="300" >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/giphy-ezgif.com-crop(1).gif"  width="200" height="300" align="center" >
 </div>
     
 <br/>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  width="390" height="300">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
       <img style="border-radius:5pxpx ; display:inline-block;" src="assets/gundam-header.jpg" > 
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"   width="390" height="300">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p>
   <center>

@@ -106,11 +106,15 @@
   <div align="center">
     <img src="assets/giphy-ezgif.com-crop(1).gif"  width="200" height="300">
   </div>
+  
   <br>
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=baga6312&show_icons=true&theme=radical"  width="390" height="300" >
-  <img src="https://stats.hyo.dev/api/github-stats?login=baga6312"  width="390" height="300" >    
+  
+  <div align="center">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=baga6312&show_icons=true&theme=radical"  width="390" height="300" >
+    <img src="https://stats.hyo.dev/api/github-stats?login=baga6312"  width="390" height="300" >    
+  </div>
+
 </div>
-    
 <br/>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
       <img style="border-radius:5pxpx ; display:inline-block;" src="assets/gundam-header.jpg" > 

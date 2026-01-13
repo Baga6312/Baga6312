@@ -108,13 +108,13 @@
 <div align="left">
 
   <img src="assets/giphy-ezgif.com-crop(1).gif"  width="390" height="300" align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=kevzpeter&theme=transparent&filter=study" alt="LeetCode Badges" align="center" />
+  <!--- <img src="https://leetcode-badge-showcase.vercel.app/api?username=kevzpeter&theme=transparent&filter=study" alt="LeetCode Badges" align="center" />-->
   ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=baga6312&show_icons=true&theme=radical)
 </div>
     
 <br/>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img style="border-radius:5pxpx ; display:inline-block;" src="assets/gundam-header.jpg"> 
+  <img style="border-radius:5pxpx ; display:inline-block;" src="assets/gundam-header.jpg"> 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p>

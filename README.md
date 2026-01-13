@@ -10,13 +10,9 @@
     <li>I'm <strong>Baga6312</strong> (also known as <strong>R1BIT99</strong>), a Software developer with a strong passion for all open source things.</li>
     <li>Linux and Hacker .</li>
     <li>I love pixelart too and web dev , i do Game dev from time to time.</li>
+  <li><p>I'm always open to new ideas and opportunities. You can learn more about me or connect with me on LinkedIn 👥. Feel free to reach out to me directly at oussema.benayech@gmail.com . Let's connect and explore exciting possibilities together! 🚀</p></li>
 </ul>
 
-</br>
-
-<ul>
-<li><p>I'm always open to new ideas and opportunities. You can learn more about me or connect with me on LinkedIn 👥. Feel free to reach out to me directly at oussema.benayech@gmail.com . Let's connect and explore exciting possibilities together! 🚀</p></li>
-</ul>
 </br>
 
 <center>

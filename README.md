@@ -106,7 +106,7 @@
 
 <br/>
 <div align="left">
-  <img src="assets/giphy-ezgif.com-crop(1).gif"  width="390" height="300" align="left">
+  <img src="assets/giphy-ezgif.com-crop(1).gif"  width="200" height="300" align="left">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats-fast.vercel.app/api?username=baga6312&show_icons=true&theme=radical"  width="390" height="300" align="right">
 </div>

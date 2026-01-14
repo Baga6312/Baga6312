@@ -5,6 +5,7 @@
 <img align="left" width="100px" height="60px" src="assets/ezgif.com-crop.gif">
 <h3> <strong>Hey!</strong></h3>
 </br>
+
 </br>
 <ul style="list-style-type=none;">
     <li>I'm <strong>Baga6312</strong> (also known as <strong>R1BIT99</strong>), a Software developer with a strong passion for all open source things.</li>

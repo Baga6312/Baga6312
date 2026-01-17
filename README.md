@@ -44,6 +44,8 @@
 <div align="center">
   <img src="assets/ejpt.svg" alt="ejpt" width="80">
   &nbsp;&nbsp;&nbsp;
+  <img src="assets/ewpt.svg" alt="ewpt" width="80">
+  &nbsp;&nbsp;&nbsp;
 
 </div>
 

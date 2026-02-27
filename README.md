@@ -49,8 +49,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="assets/ewptx.svg" alt="ewpt" width="80">
   &nbsp;&nbsp;&nbsp;
-  <img src="assets/logo_cka_whitetext.png" alt="ewpt" width="80" height="300">
-  &nbsp;&nbsp;&nbsp;
+ 
 
 </div>
 
@@ -69,8 +68,12 @@
    &nbsp;&nbsp;&nbsp;
   <img src="assets/rhcsa.png" alt="pt1" width="80">
    &nbsp;&nbsp;&nbsp;
+  <img src="assets/logo_cka_whitetext.png" alt="ewpt" width="80" height="300">
+  &nbsp;&nbsp;&nbsp;
   <img src="assets/rhce.png" alt="pt1" width="80">
+  
 </div>
+
 ---> 
 
 

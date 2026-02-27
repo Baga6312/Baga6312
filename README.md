@@ -49,7 +49,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="assets/ewptx.svg" alt="ewpt" width="80">
   &nbsp;&nbsp;&nbsp;
-  <img src="assets/logo_cka_whitetext.png" alt="ewpt" width="80" top="300">
+  <img src="assets/logo_cka_whitetext.png" alt="ewpt" width="80" height="300">
   &nbsp;&nbsp;&nbsp;
 
 </div>

@@ -125,18 +125,17 @@
   <br>
   
   <div align="center">
-  <table style="border-collapse: collapse;">
-    <tr>
-      <td style="vertical-align: middle; padding: 0; border: none;">        
-	<img src="https://github-readme-stats-fast.vercel.app/api?username=baga6312&show_icons=true&theme=radical"  width="390" height="300" >
-      </td>
-      <td style="vertical-align: middle; padding: 0; border: none;">
-    <img src="https://stats.hyo.dev/api/github-stats?login=baga6312"  width="390" height="300" >    
-
-      </td>
-    </tr>
-  </table>
-</div>
+	  	<table style="border-collapse: collapse;">
+    		<tr>
+      		<td style="vertical-align: middle; padding: 0; border: none;">        
+				<img src="https://github-readme-stats-fast.vercel.app/api?username=baga6312&show_icons=true&theme=radical"  width="390" height="300">
+      		</td>
+      		<td style="vertical-align: middle; padding: 0; border: none;">
+	  	  		<img src="https://stats.hyo.dev/api/github-stats?login=baga6312" width="390" height="300">    
+      		</td>
+    		</tr>
+  		</table>
+	</div>
 
 
 

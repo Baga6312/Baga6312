@@ -125,11 +125,18 @@
   <br>
   
 
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=baga6312&show_icons=true&theme=radical"  height="200">
-  <img src="https://stats.hyo.dev/api/github-stats?login=baga6312"  height="200">
-</div>
-
+  <div align="center">
+	  	<table style="border-collapse: collapse;">
+    		<tr>
+      		<td style="vertical-align: middle; padding: 0; border: none;">        
+				<img src="https://github-readme-stats-fast.vercel.app/api?username=baga6312&show_icons=true&theme=radical"  height="200">
+      		</td>
+      		<td style="vertical-align: middle; padding: 0; border: none;">
+	  	  		<img src="https://stats.hyo.dev/api/github-stats?login=baga6312" height="é00">    
+      		</td>
+    		</tr>
+  		</table>
+	</div>
 
 </div>
 <br/>
